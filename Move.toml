@@ -1,0 +1,9 @@
+[package]
+name = "SuiNFTLend"
+version = "0.0.1"
+
+[dependencies]
+Sui = { local = "path/to/sui/framework" }
+
+[addresses]
+sui_nft_lend = "0x0"
